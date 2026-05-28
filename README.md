@@ -1,6 +1,6 @@
 # landing-page
 
-A landing page project for the Odin Project.
+A landing page project for The Odin Project.
 
 ## layout
 
@@ -13,6 +13,12 @@ A landing page project for the Odin Project.
 
 ## content
 
-- html and css
-- flexbox
-- responsive design
+- HTML and CSS
+- Flexbox
+- Responsive design
+
+## credits
+
+- Red Bull Racing car image from Pixabay
+- Red Bull logo belongs to Red Bull GmbH
+- Player graphics generated using Gemini AI
